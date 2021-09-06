@@ -1,0 +1,20 @@
+.btn-delete {
+    background-color: Transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none !important;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.green{
+    color: greenyellow;
+}
+table th {
+    cursor: pointer;
+}
